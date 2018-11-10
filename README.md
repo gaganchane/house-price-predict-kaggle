@@ -15,6 +15,7 @@ Note: Project in progress. Model will continuously be improved and redundant cod
 	* Correlation between categorical predictors and response
     	* Remove unimportant categorical predictors
 * Fit multiple linear regression model using training data
-* Make predictions for house sale prices using test data
+* Fit Random Forest model using training data
+* Make predictions for house sale prices
 	* Output predictions for submission to Kaggle
 
