@@ -1,8 +1,6 @@
 # house-price-predict-kaggle
 Predicting sale prices of houses with 79 (numerical and categorical) features. This is for the Housing Prices Competition on Kaggle.
 
-Note: Project in progress. Model will continuously be improved and redundant code will be functionized.
-
 ## Content in Model
 
 * Dealing with missing data
